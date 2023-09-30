@@ -195,6 +195,7 @@ footer img {
     #about {
         flex-direction: column;
         text-align: center;
+        justify-content: center;
     }
 
     #projects .cards {
