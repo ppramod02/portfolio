@@ -22,7 +22,7 @@
             <li><a href='https://linkedin.com/in/ppramod02' target='_blank'>
                 <img src={linkedin} class='scale' alt='logo' />
             </a></li>
-            <li><a href='https://github.com/ppandey895' target='_blank'>
+            <li><a href='https://github.com/ppramod02' target='_blank'>
                 <img src={github} alt='logo' />
             </a></li>
             <li><a href='https://leetcode.com/ppramod02' target='_blank'>
