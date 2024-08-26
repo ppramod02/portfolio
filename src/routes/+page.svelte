@@ -1,7 +1,7 @@
 <script>
     import '../global.css';
     import './index.css';
-    import Luckyman from "$lib/assets/luckyman.svelte";
+    import Luckyman from "$lib/assets/Luckyman.svelte";
     import doryoku from "$lib/assets/doryoku.png";
     import victory from "$lib/assets/victory.png";
     import syncspace from "$lib/assets/syncspace.jpeg";
