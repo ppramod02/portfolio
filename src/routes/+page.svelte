@@ -14,7 +14,7 @@
     import location from "$lib/assets/location.svg";
     import message from "$lib/assets/message.svg";
     import download from "$lib/assets/download.svg";
-    import cv from "$lib/assets/PramodPandeyResume.pdf"
+    let cv = "https://drive.google.com/file/d/173-ishhPQ2o25YHIrLoXQ_4YFEqioOmW/view?usp=drivesdk";
 </script>
 
 <div class='hero' id='home'>
