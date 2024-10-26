@@ -7,6 +7,8 @@
     import syncspace from "$lib/assets/syncspace.jpeg";
     import bloggit from "$lib/assets/bloggit.png";
     import firstpage from "$lib/assets/firstpage.png";
+    import shopista from "$lib/assets/shopista.png";
+    import managemint from "$lib/assets/managemint.png";
     import superstar from "$lib/assets/superstar.png";
     import github from "$lib/assets/github-mark.svg";
     import linkedin from "$lib/assets/linkedin.svg";
@@ -84,6 +86,26 @@
                 <span><a href='https://github.com/ppramod02/firstPage' target="_blank">Github</a></span>
             </div>
             <div class='tags'><span>web dev</span><span>reactjs</span><span>supabase</span></div>
+        </div>
+        <div class='card project'>
+            <img src={shopista} alt='project-firstPage' />
+            <h3>Shopista</h3>
+            <p>Ecommerce platform</p>
+            <div>
+                <span><a href='https://shopista-profile.netlify.app' target="_blank">Website |</a></span>
+                <span><a href='https://github.com/ppramod02/shopista' target="_blank">Github</a></span>
+            </div>
+            <div class='tags'><span>firebase</span><span>reactjs</span><span>assignment</span></div>
+        </div>
+        <div class='card project'>
+            <img src={managemint} alt='project-firstPage' />
+            <h3>ManageMint</h3>
+            <p>CMS platform</p>
+            <div>
+                <span><a href='https://managemint.netlify.app' target="_blank">Website |</a></span>
+                <span><a href='https://github.com/ppramod02/ecowiser-frontend' target="_blank">Github</a></span>
+            </div>
+            <div class='tags'><span>postgres</span><span>nextjs</span><span>assignment</span></div>
         </div>
         <div class='card project'>
             <h3>A basic Perceptron network</h3>
