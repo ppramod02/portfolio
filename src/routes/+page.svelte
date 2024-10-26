@@ -16,7 +16,7 @@
     import location from "$lib/assets/location.svg";
     import message from "$lib/assets/message.svg";
     import download from "$lib/assets/download.svg";
-    let cv = "https://drive.google.com/file/d/173-ishhPQ2o25YHIrLoXQ_4YFEqioOmW/view?usp=drivesdk";
+    let cv = "https://drive.google.com/file/d/11ivzhqNSoxIPubHn3mnXzV2pdPBb0FcL/view?usp=sharing";
 </script>
 
 <div class='hero' id='home'>
